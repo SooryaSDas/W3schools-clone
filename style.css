@@ -39,24 +39,24 @@ a{
 }
 .html{
     width: 100%;
-    height: 609px;
+    height: 630px;
     background-color: #D9EEE1;
     padding-top: 6%;
     display: flex;
     flex-direction: row;
 }
-.html-left{
+.content-left{
     width: 50%;
     height: 530px;
     /* float: left; */
     text-align: center;
 }
-.html-right{
+.content-right{
     width: 42%;
     height: 530px;
     float: left;
 }
-#html-text{
+#content-text{
     font-size: 100px;
     font-weight: 700;
     margin-top: -18px;
@@ -64,6 +64,8 @@ a{
 }
 #html-btn{
     border-radius: 25px;
+    padding-left: 52px;
+    padding-right: 39px;
 }
 .html-example{
     padding: 16px;
@@ -76,4 +78,33 @@ a{
     font-size: 15px;
     height:300px;
     background-color:black;
+}
+.css{
+    width: 100%;
+    height: 620px;
+    padding-top: 6%;
+    display: flex;
+    flex-direction: row;
+    background-color: #FFF4A3;
+}
+.javascript{
+    width: 100%;
+    height: 610px;
+    padding-top: 6%;
+    display: flex;
+    flex-direction: row;
+    background-color: #070707;
+}
+.js-code{
+    font-size: 15px;
+    height:231px;
+    background-color:black;
+}
+.python{
+    width: 100%;
+    height: 610px;
+    padding-top: 6%;
+    display: flex;
+    flex-direction: row;
+    background-color: #F3ECEA;
 }
