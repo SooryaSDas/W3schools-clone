@@ -247,3 +247,9 @@ ul li {
     text-align: center;
     color: white;
 }
+.colorpicker{
+    width: 100%;
+    height: 360px;
+    background-color:#e0d9d9 ;
+    padding: 30px 3px 85px 3px;
+}
