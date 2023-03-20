@@ -310,4 +310,7 @@ ul li {
     #codeimg {
       width: 50%;
     }
+    .content-right{
+        padding: 3% 7% 2% 4%;
+    }
   }
