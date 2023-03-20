@@ -273,7 +273,7 @@ ul li {
 }
 .webtemplates{
     width: 100%;
-    height: 550;
+    height: auto;
     background-color:#96D4D4;
     padding: 30px 3px 85px 3px;
     background-color: #38444d;
@@ -281,7 +281,7 @@ ul li {
 }
 .kickstart{
     width: 100%;
-    height: 470px;
+    height: auto;
     background-color: black;
     padding-top: 62px; 
     padding-bottom: 62px;
