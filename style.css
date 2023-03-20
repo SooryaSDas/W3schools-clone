@@ -234,7 +234,7 @@ a{
 }
 .mylearning{
     width: 100%;
-    height: 800px;
+    height: auto;
     background-color:#D9EEE1 ;
     padding: 30px 3px 85px 3px;
 }
@@ -251,13 +251,13 @@ ul li {
 }
 .colorpicker{
     width: 100%;
-    height: 360px;
+    height: auto;
     background-color:#e0d9d9 ;
     padding: 30px 3px 85px 3px;
 }
 .codegame{
     width: 100%;
-    height: 514px;
+    height: auto;
     background-color:#96D4D4;
     padding: 30px 3px 85px 3px;
 }
