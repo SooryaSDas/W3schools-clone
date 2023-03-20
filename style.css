@@ -262,13 +262,14 @@ ul li {
     padding: 30px 3px 85px 3px;
 }
 .excercise{
+    width: 100%;
     padding-left: 20px;
     background-color: rgb(13,23,33);
     color: white;
     padding-top: 64px;
     padding-bottom: 64px;
     text-align: center;
-    height: 500px;
+    height: auto;
 }
 .webtemplates{
     width: 100%;
@@ -292,14 +293,21 @@ ul li {
     background-color: black;
     padding: 30px;
 }
-/* @media screen and (max-width: 576px) {
-    #codeeditorimg {
-      width: 30%;
-    }
-  } */
 
   @media screen and (max-width: 1200px) {
     #codeeditorimg {
       width: 70%;
+    }
+  }
+
+  @media screen and (max-width: 1200px) {
+    #codeimg {
+      width: 50%;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    #codeimg {
+      width: 50%;
     }
   }
